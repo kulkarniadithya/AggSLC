@@ -114,7 +114,26 @@ NOTE 3: We have provided the execution run results for each iteration in executi
 </li>
 </ol>
 
+ <h3> Citation </h3>
+ <p>@INPROCEEDINGS{9679072,
 
+  author={Sabetpour, Nasim and Kulkarni, Adithya and Xie, Sihong and Li, Qi},
+
+  booktitle={2021 IEEE International Conference on Data Mining (ICDM)}, 
+
+  title={Truth Discovery in Sequence Labels from Crowds}, 
+
+  year={2021},
+
+  volume={},
+
+  number={},
+
+  pages={539-548},
+
+  doi={10.1109/ICDM51629.2021.00065}}
+</p>
+ 
 </html>
 
 
